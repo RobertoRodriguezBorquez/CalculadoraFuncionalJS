@@ -1,1 +1,3 @@
 //documento realizado para probar comando status de git 
+
+1. creando modificaciones para practica git
